@@ -1,0 +1,1 @@
+exclude_calendar_ids = [] # UUID of calendars to exclude, use ./list-calendars.sh to get the UUIDs
